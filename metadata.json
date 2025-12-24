@@ -1,0 +1,5 @@
+
+{
+  "name": "NEXUS OMNICHANNEL - Game Theory Optimizer",
+  "description": "Cria a classe Python `GameTheoryOptimizer` que implementa uma estratégia de lances Epsilon-Greedy (ε) para exploração não-determinística, com logging de ações para o BigQuery e um teto de gastos para segurança."
+}
